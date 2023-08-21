@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div>
+  <img src="https://media.giphy.com/media/xd9HUXswWPY1EEJ80a/giphy.gif" style="width:100px; align:center"> </img>
+</div>
 <!--
 **Bakhilin-Nikita/Bakhilin-Nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

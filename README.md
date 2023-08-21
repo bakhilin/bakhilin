@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xd9HUXswWPY1EEJ80a/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/wHB67Zkr63UP7RWJsj/giphy.gif" width="100"/>
 </div>
 <!--
 **Bakhilin-Nikita/Bakhilin-Nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

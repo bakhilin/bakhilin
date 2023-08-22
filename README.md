@@ -7,7 +7,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Mail&logoColor=white)])
+- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-bahilinnikita04@mail.ru-blue?style=flat&logo=Mail&logoColor=white)])
 
 <!--
 **Bakhilin-Nikita/Bakhilin-Nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

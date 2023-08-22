@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wHB67Zkr63UP7RWJsj/giphy.gif" width="100"/>
-  
 </div>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 

@@ -23,3 +23,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>  &nbsp;
 </div>
+
+
+### :fire: My Stats :
+
+
+        
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bakhilin-nikita&theme=dark&background=000000)](https://git.io/streak-stats)
+
+    
+

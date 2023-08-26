@@ -7,7 +7,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-bahilinnikita04@mail.ru-blue?style=flat&logo=Mail&logoColor=white)])
+
 
 
 ### :hammer_and_wrench: Languages and Tools :

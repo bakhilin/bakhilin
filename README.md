@@ -22,11 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>  &nbsp;
 </div>
 
-### 💸 PRICE LIST :
-1) Landing page (200-1000$)
-2) Online store (500-5000$)
-3) Web application (300-5000$)
-p.s The price list includes turnkey development , the design is also included.
 
 ### :fire: My Stats :
 

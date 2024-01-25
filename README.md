@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wHB67Zkr63UP7RWJsj/giphy.gif" width="100"/>
 </div>
+[![MasterHead](https://avatars.mds.yandex.net/i?id=e0c17a8a8cca4657914fa02e62e9b846a8be777d-10733191-images-thumbs&n=13)](https://github.com/bakhilin)
+
 - :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications and other software
 
 - :seedling: Exploring Technical Content Writing.

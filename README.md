@@ -1,13 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wHB67Zkr63UP7RWJsj/giphy.gif" width="100"/>
 </div>
-[![MasterHead](https://avatars.mds.yandex.net/i?id=e0c17a8a8cca4657914fa02e62e9b846a8be777d-10733191-images-thumbs&n=13)](https://github.com/bakhilin)
-
-- :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications and other software
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech article
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhilin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhilin&theme=dark&show_icons=true)    
 
 
 

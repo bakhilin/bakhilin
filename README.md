@@ -15,6 +15,7 @@
   <a href="">  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" title="jenkins" width="40" height="40" />  </a>
   <a href="">  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  alt="docker" title="docker" width="40" height="40" /> </a>
   <a href="">   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/></a>
+  <a href=""> <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original.svg" title="c++" alt="c++" width="40" height="40"/></a>
 </p>
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakhilin&theme=tokyonight"/></p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bakhilin Nikita</h1>
 <h3 align="center">devOps Engineering ITMO Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsp243&label=Profile%20views&color=0e75b6&style=flat" alt="rsp243 contribution graph" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhilin&label=Profile%20views&color=0e75b6&style=flat" alt="rsp243 contribution graph" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

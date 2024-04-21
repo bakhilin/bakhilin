@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bakhilin Nikita</h1>
-<h3 align="center">devOps | ITMO Student</h3>
+<h3 align="center">DevOps | ITMO Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhilin&label=Profile%20views&color=0e75b6&style=flat" alt="bakhilin contribution graph" /></p>
 

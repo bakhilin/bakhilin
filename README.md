@@ -1,4 +1,6 @@
-<img src="bakhilin.jpg" width="500">
+<p align="center">
+  <img src="bakhilin.jpg" width="350">
+</p>  
 <h1 align="center">Hi 👋, I'm Bakhilin Nikita</h1>
 <h3 align="center">DevOps | ITMO Student</h3>
 

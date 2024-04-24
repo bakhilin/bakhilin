@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="bakhilin.jpg" width="300">
-</p>  
-<p>
-  I am 19 years old. Developer from St.Petersburg and study at ITMO university. 
-  Love to managing CI/CD processes and docker daemon.
-</p>
+
 <h1 align="center">Hi 👋, I'm Bakhilin Nikita</h1>
 <h3 align="center">DevOps | ITMO Student</h3>
 

@@ -3,6 +3,7 @@
 <h3 align="center">DevOps | ITMO Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhilin&label=Profile%20views&color=0e75b6&style=flat" alt="bakhilin contribution graph" /></p>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -12,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Golang)
 
 ### Technologies
 

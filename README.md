@@ -10,8 +10,7 @@
   Currently studying Computer Science at [ITMO University](https://itmo.ru)  
 
 </p>
-|[![GitHub Streak](https://streak-stats.demolab.com/?user=bakhilin&line_height=20&theme=ayu-mirage)](https://git.io/streak-stats)|
-|:-:|
+
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=Portfolio)](https://github.com/bakhilin/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=auth-golang)](https://github.com/worthant/auth-golang)|
 
 ---

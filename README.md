@@ -11,6 +11,10 @@
 
 </p>
 
+<p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakhilin&theme=tokyonight"/></p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakhilin&theme=tokyonight&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
 
 ---

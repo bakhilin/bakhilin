@@ -6,12 +6,11 @@
 
 <p>
 
-  I'm Nikita, a student from St. Petersburg, Russia.  
+  I'm Nikita-DevOps engineer, a student from St. Petersburg, Russia.  
   Currently studying Computer Science at [ITMO University](https://itmo.ru)  
 
 </p>
-  
-|![LeetCode Stats](https://leetcard.jacoblin.cool/bakhilin?theme=nord&font=Archivo)|[![GitHub Streak](https://streak-stats.demolab.com/?user=bakhilin&line_height=20&theme=ayu-mirage)](https://git.io/streak-stats)|
+
 |:-:|:-:|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=Portfolio)](https://github.com/bakhilin/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=auth-golang)](https://github.com/worthant/auth-golang)|
 

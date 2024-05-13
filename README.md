@@ -11,7 +11,7 @@
 
 </p>
 
-|![LeetCode Stats](https://leetcard.jacoblin.cool/worthant?theme=nord&font=Archivo)|[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=ayu-mirage)](https://git.io/streak-stats)|
+![bakhilin GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhilin&show_icons=true&theme=radical)
 |:-:|:-:|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=Portfolio)](https://github.com/bakhilin/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=auth-golang)](https://github.com/worthant/auth-golang)|
 

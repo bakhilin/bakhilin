@@ -19,6 +19,6 @@
 <details>
   <summary><h2>Wakatime stats</h2></summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=worthant&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bakhilin&layout=compact" />
 </a>
 </details>

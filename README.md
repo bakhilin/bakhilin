@@ -10,7 +10,7 @@
   Currently studying Computer Science at [ITMO University](https://itmo.ru)  
 
 </p>
-|[![bakhilin GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhilin&show_icons=true&theme=radical)|
+|![bakhilin GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhilin&show_icons=true&theme=radical)|
 |:-:|:-:|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=Portfolio)](https://github.com/bakhilin/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=auth-golang)](https://github.com/worthant/auth-golang)|
 

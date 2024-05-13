@@ -11,7 +11,14 @@
 
 </p>
 
+|![LeetCode Stats](https://leetcard.jacoblin.cool/worthant?theme=nord&font=Archivo)|[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=ayu-mirage)](https://git.io/streak-stats)|
 |:-:|:-:|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=Portfolio)](https://github.com/bakhilin/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=auth-golang)](https://github.com/worthant/auth-golang)|
 
 ---
+<details>
+  <summary><h2>Wakatime stats</h2></summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=worthant&layout=compact" />
+</a>
+</details>

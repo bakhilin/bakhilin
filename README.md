@@ -11,8 +11,8 @@
 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakhilin&theme=tokyonight&hide_border=true&card_width=700)](https://git.io/streak-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=Portfolio)](https://github.com/bakhilin/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=auth-golang)](https://github.com/worthant/auth-golang)|
+|![![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakhilin&theme=tokyonight&hide_border=true&card_width=700)](https://git.io/streak-stats)|
+|:-:|:-:|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=Portfolio)](https://github.com/bakhilin/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bakhilin&theme=react&repo=auth-golang)](https://github.com/worthant/auth-golang)|
 
 ---

@@ -6,7 +6,7 @@
 
 <p>
 
-  I'm Nikita-QA engineer, a student from St. Petersburg, Russia.  
+  I'm Nikita- engineer, a student from St. Petersburg, Russia.  
   Currently studying Computer Science at [ITMO University](https://itmo.ru)  
 
 </p>

@@ -6,7 +6,7 @@
 
 <p>
 
-  I'm Nikita- engineer, a student from St. Petersburg, Russia.  
+  I'm Nikita- devOps engineer, a student from St. Petersburg, Russia.  
   Currently studying Computer Science at [ITMO University](https://itmo.ru)  
 
   CEO of [clandike.tech](https://clandike.tech)

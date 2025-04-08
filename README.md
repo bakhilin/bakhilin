@@ -9,7 +9,7 @@
   I'm Nikita- devOps engineer, a student from St. Petersburg, Russia.  
   Currently studying Computer Science at [ITMO University](https://itmo.ru)  
 
-  CEO of [clandike.tech](https://clandike.tech)
+  CEO of [nikitos.tech](https://nikitos.tech)  [clandike.tech](https://clandike.tech)
 </p>
 
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakhilin&theme=tokyonight"/></p>
